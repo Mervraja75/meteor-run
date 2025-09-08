@@ -1,4 +1,4 @@
-# Meteor Run 🎮
+# Meteor Run ☄️🏃
 
 A 2D endless runner built in Unity.
 
